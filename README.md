@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I’m a full-stack web developer. 
+
+Languages:
+- JS
+- Ruby
+- SQL
+
+I’m currently working on personal projects.
+
 <!--
 **Bekopp/Bekopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
